@@ -5,7 +5,7 @@ Please add the following items:
 
 [Program link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub)
 
-[Project description link]<Add link to the project description from the list of projects above>
+[Project description link](https://github.com/mathworks/MATLAB-Simulink-Challenge-Project-Hub/tree/main/projects/Fluid%20Flow%20Simulation%20Using%20Physics-Informed%20Neural%20Networks)
 
 
 # Project details
