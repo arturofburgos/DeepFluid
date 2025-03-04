@@ -1,4 +1,4 @@
-# Solution to MATLAB and Simulink Challenge project 252 <'Project Title'>
+# Solution to MATLAB and Simulink Challenge project 252: Fluid Flow Simulation Using Physics-Informed Neural Networks
 This is a template repo for MATLAB and Simulink Challenge Project solutions.
 
 Please add the following items:
